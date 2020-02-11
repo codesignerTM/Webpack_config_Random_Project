@@ -1,0 +1,28 @@
+{
+  "name": "webpack_config_boilerplate",
+  "version": "1.0.0",
+  "description": "A basic webpack configuration",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codesignerTM/Webpack_config_boilerplate.git"
+  },
+  "keywords": [
+    "Webpack",
+    "bundler",
+    "boilerplate"
+  ],
+  "author": "Tamás Mező",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/codesignerTM/Webpack_config_boilerplate/issues"
+  },
+  "homepage": "https://github.com/codesignerTM/Webpack_config_boilerplate#readme",
+  "devDependencies": {
+    "webpack": "^4.41.6",
+    "webpack-dev-server": "^3.10.3"
+  }
+}
