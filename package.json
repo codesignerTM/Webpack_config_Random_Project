@@ -24,5 +24,10 @@
   "devDependencies": {
     "webpack": "^4.41.6",
     "webpack-dev-server": "^3.10.3"
+  },
+  "dependencies": {
+    "react": "^16.12.0",
+    "react-router": "^5.1.2",
+    "react-router-dom": "^5.1.2"
   }
 }
